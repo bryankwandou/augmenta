@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Augmenta — Human Evolution",
+      "hasCanvas": false,
+      "bodyTextLen": 3255,
+      "bodyTextHash": "c562e5aae48d78c1ce82ac2370e901295e7f8aa1700c25ef38e918e58352984c",
+      "bodyTextPrefix": "AUGMENTA Human evolution 00 AUGMENTA Module Case Records Biotech",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Augmenta — Human Evolution",
+      "hasCanvas": false,
+      "bodyTextLen": 3154,
+      "bodyTextHash": "4a42a0a0e4e7ad8dd34582fc6e26a428e02e9baf105ab5f748e36f2980eac430",
+      "bodyTextPrefix": "AUGMENTA Human evolution 00 Connect GATEWAY TO YOUR AUGMENTED SE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
